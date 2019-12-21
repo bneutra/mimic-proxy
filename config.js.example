@@ -1,0 +1,7 @@
+
+module.exports = {
+  dataPath: 'proxydata', // dir where data is stored
+  targetHost: 'example.target.com', // assumes https
+  port: 8092, // listen on
+  delayMs: 100 // inject a delay before responding 
+}

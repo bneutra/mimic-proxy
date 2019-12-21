@@ -1,0 +1,13 @@
+{
+  "name": "mimic-proxy",
+  "version": "0.0.1",
+  "description": "proxy recording/replay script",
+  "main": "recorder.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "http-proxy": "*",
+    "lodash": "*",
+    "mkpath": "*"
+  }
+}
